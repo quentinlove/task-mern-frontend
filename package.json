@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "http://localhost:3000",
+  "proxy": "https://taskmernbackend-bu6i10q2.b4a.run",
   "private": true,
   "dependencies": {
     "axios": "^1.8.3",
