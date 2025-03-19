@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL ='/api/tasks/'
+const API_URL ='https://taskmernbackend-bu6i10q2.b4a.run/api/tasks/'
 
 const createTask = async(taskData,token)=>{
     const config ={

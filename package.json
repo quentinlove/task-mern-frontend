@@ -1,7 +1,6 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "https://taskmernbackend-bu6i10q2.b4a.run",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
